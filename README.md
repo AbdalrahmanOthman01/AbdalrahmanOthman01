@@ -11,7 +11,9 @@
     </a>
   </p>
 </div>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alexandresanlim/alexandresanlim/main/assets/images/rainbow-line-horizontal.gif" alt="divider" width="100%"/>
+</div>
 <!-- ABOUT ME -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/alexandresanlim/alexandresanlim/main/assets/images/rainbow-line-horizontal.gif" alt="divider" width="100%"/>
@@ -185,8 +187,4 @@ I believe in lifelong learning. Here's what's currently on my radar:
 
 <div align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="400"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alexandresanlim/alexandresanlim/main/assets/images/rainbow-line-horizontal.gif" alt="divider" width="100%"/>
 </div>
