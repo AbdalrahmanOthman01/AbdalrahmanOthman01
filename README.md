@@ -1,4 +1,9 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="900px" alt="Developer Banner"/>
+</div>
+<br>
+
+<div align="center">
   <a href="https://github.com/AbdalrahmanOthman01">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=10B981¢er=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Abdalrahman+Hossam+%F0%9F%91%8B;A+Passionate+AI+%26+CS+Student;Specializing+in+Full-Stack+%26+Data+Science;From+Menofia+University%2C+Egypt." alt="Typing SVG" />
   </a>
@@ -11,9 +16,7 @@
     </a>
   </p>
 </div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alexandresanlim/alexandresanlim/main/assets/images/rainbow-line-horizontal.gif" alt="divider" width="100%"/>
-</div>
+
 <!-- ABOUT ME -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/alexandresanlim/alexandresanlim/main/assets/images/rainbow-line-horizontal.gif" alt="divider" width="100%"/>
@@ -187,4 +190,8 @@ I believe in lifelong learning. Here's what's currently on my radar:
 
 <div align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="400"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alexandresanlim/alexandresanlim/main/assets/images/rainbow-line-horizontal.gif" alt="divider" width="100%"/>
 </div>
