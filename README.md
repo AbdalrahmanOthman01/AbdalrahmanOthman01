@@ -89,22 +89,28 @@ I'm a highly driven and passionate **Artificial Intelligence & Computer Science*
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 My GitHub & WakaTime Stats
 
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdalrahmanOthman01&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true&icon_color=10B981&title_color=10B981&text_color=D1D5DB" alt="Abdalrahman's GitHub Stats" width="49%"/>
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdalrahmanOthman01&layout=compact&langs_count=10&theme=gotham&hide_border=true&title_color=10B981&text_color=D1D5DB" alt="Top Languages" width="49%"/>
-  <br/>
-  <!-- GitHub Profile Trophies -->
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=AbdalrahmanOthman01&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true&icon_color=10B981&title_color=10B981&text_color=D1D5DB" alt="Abdalrahman's GitHub Stats" width="100%"/>
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdalrahmanOthman01&layout=compact&langs_count=10&theme=gotham&hide_border=true&title_color=10B981&text_color=D1D5DB" alt="Top Languages" width="100%"/>
+    </td>
+    <td width="50%" valign="top">
+      <!-- WakaTime Stats will be inserted here -->
+      <!-- WAKATIME:START -->
+      <!-- WAKATIME:END -->
+    </td>
+  </tr>
+</table>
+
+  <br>
   <img src="https://github-profile-trophy.vercel.app/?username=AbdalrahmanOthman01&theme=gotham&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" width="98%"/>
   <br/>
   
-  <!--
-  **NOTE**: The snake animation below will only appear once you complete the
-  GitHub Action setup explained in the instructions. It needs to generate the file first.
-  -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdalrahmanOthman01/AbdalrahmanOthman01/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdalrahmanOthman01/AbdalrahmanOthman01/output/github-snake.svg">
