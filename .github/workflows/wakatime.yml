@@ -15,8 +15,9 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
+          # 👇 The input name is now GH_TOKEN instead of GITHUB_TOKEN
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_OS: "True"
           SHOW_PROJECTS: "False"
           SHOW_EDITORS: "True"
