@@ -6,7 +6,6 @@
     <a href="https://github.com/AbdalrahmanOthman01?tab=followers">
       <img src="https://img.shields.io/github/followers/AbdalrahmanOthman01?label=Followers&style=social" alt="GitHub Followers">
     </a>
-    <!-- THIS IS THE NEW, RELIABLE VISITOR COUNTER -->
     <a href="https://github.com/AbdalrahmanOthman01">
       <img src="https://komarev.com/ghpvc/?username=AbdalrahmanOthman01&label=PROFILE+VIEWS&color=10B981&style=flat-square" alt="Profile Visitor Counter" />
     </a>
@@ -124,7 +123,7 @@ I'm a highly driven and passionate **Artificial Intelligence & Computer Science*
 
 <div align="center">
   <a href="https://www.codewars.com/users/AbdalrahmanOthman01">
-    <img src="https://www.codewars.com/users/Abdalrahman_01/badges/large" alt="Codewars Badge">
+    <img src="https://www.codewars.com/users/AbdalrahmanOthman01/badges/large" alt="Codewars Badge">
   </a>
 </div>
 
