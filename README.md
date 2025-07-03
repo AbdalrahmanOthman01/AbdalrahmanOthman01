@@ -92,25 +92,24 @@ I'm a highly driven and passionate **Artificial Intelligence & Computer Science*
 ### 📊 My GitHub & WakaTime Stats
 
 <div align="center">
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=AbdalrahmanOthman01&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true&icon_color=10B981&title_color=10B981&text_color=D1D5DB" alt="Abdalrahman's GitHub Stats" width="100%"/>
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdalrahmanOthman01&layout=compact&langs_count=10&theme=gotham&hide_border=true&title_color=10B981&text_color=D1D5DB" alt="Top Languages" width="100%"/>
-    </td>
-    <td width="50%" valign="top">
-      <!-- WakaTime Stats will be inserted here -->
-      <!-- WAKATIME:START -->
-      <!-- WAKATIME:END -->
-    </td>
-  </tr>
-</table>
-
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdalrahmanOthman01&theme=gotham&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" width="98%"/>
-  <br/>
+  <p><strong>GitHub Stats</strong></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdalrahmanOthman01&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true&icon_color=10B981&title_color=10B981&text_color=D1D5DB" alt="Abdalrahman's GitHub Stats" width="49.5%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdalrahmanOthman01&layout=compact&langs_count=10&theme=gotham&hide_border=true&title_color=10B981&text_color=D1D5DB" alt="Top Languages" width="49.5%"/>
   
+  <br><br>
+  
+  <p><strong>WakaTime Weekly Stats</strong></p>
+  <!-- WakaTime Stats will be inserted here -->
+  <!-- WAKATIME:START -->
+  <!-- WAKATIME:END -->
+
+  <br><br>
+
+  <p><strong>My Trophies & Contributions</strong></p>
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdalrahmanOthman01&theme=gotham&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" width="98%"/>
+  
+  <br>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdalrahmanOthman01/AbdalrahmanOthman01/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdalrahmanOthman01/AbdalrahmanOthman01/output/github-snake.svg">
