@@ -14,10 +14,10 @@
 
 <!-- ABOUT ME -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AbdalrahmanOthman01/AbdalrahmanOthman01/main/assets/divider.gif" alt="divider" width="100%"/>
+  <img src="https://raw.githubusercontent.com/alexandresanlim/alexandresanlim/main/assets/images/rainbow-line-horizontal.gif" alt="divider" width="100%"/>
 </div>
 
-### <img src="https://raw.githubusercontent.com/AbdalrahmanOthman01/AbdalrahmanOthman01/main/assets/hello.gif" width="25px" alt="hello"> About Me
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" alt="hello"> About Me
 
 I'm a highly driven and passionate **Artificial Intelligence & Computer Science** student at **Menofia University**, with an expected graduation in **2027**. My world revolves around turning complex problems into elegant, efficient solutions. I thrive at the intersection of hardware and software, specializing in **Embedded Systems**, **Data Science**, and **Full-Stack Development**. I am deeply committed to using technology to build a better future and am actively seeking opportunities to contribute to innovative projects.
 
@@ -100,8 +100,16 @@ I'm a highly driven and passionate **Artificial Intelligence & Computer Science*
   <!-- GitHub Profile Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=AbdalrahmanOthman01&theme=gotham&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" width="98%"/>
   <br/>
-  <!-- Contribution Graph -->
-  <img src="https://github-activity-graph.herokuapp.com/graph?username=AbdalrahmanOthman01&theme=gotham&bg_color=1d1f21&color=10B981&line=10B981&point=10B981&hide_border=true" alt="Contribution Graph" width="98%"/>
+  
+  <!--
+  **NOTE**: The snake animation below will only appear once you complete the
+  GitHub Action setup explained in the instructions. It needs to generate the file first.
+  -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdalrahmanOthman01/AbdalrahmanOthman01/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdalrahmanOthman01/AbdalrahmanOthman01/output/github-snake.svg">
+    <img alt="github snake animation" src="https://raw.githubusercontent.com/AbdalrahmanOthman01/AbdalrahmanOthman01/output/github-snake.svg">
+  </picture>
 </div>
 
 ---
@@ -109,7 +117,6 @@ I'm a highly driven and passionate **Artificial Intelligence & Computer Science*
 ### 🏆 My Codewars Rank
 
 <div align="center">
-  <!-- IMPORTANT: Replace 'YOUR_CODEWARS_USERNAME' with your actual Codewars username -->
   <a href="https://www.codewars.com/users/Abdalrahman_01">
     <img src="https://www.codewars.com/users/Abdalrahman_01/badges/large" alt="Codewars Badge">
   </a>
@@ -117,7 +124,7 @@ I'm a highly driven and passionate **Artificial Intelligence & Computer Science*
 
 ---
 
-### <img src="https://raw.githubusercontent.com/AbdalrahmanOthman01/AbdalrahmanOthman01/main/assets/project.gif" width="30px" alt="project"> Highlighted Projects
+### <img src="https://raw.githubusercontent.com/alexandresanlim/alexandresanlim/main/assets/images/project.gif" width="30px" alt="project"> Highlighted Projects
 
 Here are some of the projects I'm most proud of. You can find more on my repositories tab!
 
@@ -140,7 +147,7 @@ I believe in lifelong learning. Here's what's currently on my radar:
 - 🤖 **Working with ROS** (Robot Operating System) for advanced robotics projects.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AbdalrahmanOthman01/AbdalrahmanOthman01/main/assets/divider.gif" alt="divider" width="100%"/>
+  <img src="https://raw.githubusercontent.com/alexandresanlim/alexandresanlim/main/assets/images/rainbow-line-horizontal.gif" alt="divider" width="100%"/>
 </div>
 
 ### ✨ Additional Information
@@ -148,11 +155,11 @@ I believe in lifelong learning. Here's what's currently on my radar:
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h4><img src="https://raw.githubusercontent.com/AbdalrahmanOthman01/AbdalrahmanOthman01/main/assets/internship.gif" width="25px" alt="internship"> Availability</h4>
+      <h4><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-coffee.gif" width="25px" alt="internship"> Availability</h4>
       <p>I am actively seeking <b>internship opportunities</b> and am open to <b>collaborating on innovative projects</b>, especially in the fields of AI, IoT, and Web Development. Let's build something amazing together!</p>
     </td>
     <td valign="top" width="50%">
-      <h4><img src="https://raw.githubusercontent.com/AbdalrahmanOthman01/AbdalrahmanOthman01/main/assets/volunteer.gif" width="25px" alt="volunteer"> Volunteering</h4>
+      <h4><img src="https://raw.githubusercontent.com/ahmad-chebbo/ahmad-chebbo/main/assets/community.gif" width="25px" alt="volunteer"> Volunteering</h4>
       <p>I am proud to serve as the <b>Vice of For Egypt</b>, a student-led organization focused on community development and social impact projects.</p>
     </td>
   </tr>
@@ -176,5 +183,5 @@ I believe in lifelong learning. Here's what's currently on my radar:
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AbdalrahmanOthman01/AbdalrahmanOthman01/main/assets/divider.gif" alt="divider" width="100%"/>
+  <img src="https://raw.githubusercontent.com/alexandresanlim/alexandresanlim/main/assets/images/rainbow-line-horizontal.gif" alt="divider" width="100%"/>
 </div>
